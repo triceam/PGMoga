@@ -18,12 +18,12 @@ All samples need the com.bda.controller.jar file that is available as part of th
 
 This directory contains the following:
 
-+ samples folder contains sample implementations
-++ PGMogaDemo folder contains a sample project that simply writes values out to the html interface
-++ PGMogaDemoGame contains a simple game demo that can be controlled using the Moga gamepad
++ *samples* folder contains sample implementations
+> + *PGMogaDemo* folder contains a sample project that simply writes values out to the html interface
+> + *PGMogaDemoGame* contains a simple game demo that can be controlled using the Moga gamepad
 + src folder contains source code for the plugin
-++ java folder contains native plugin java (native) interface
-++ js folder contains native plugin JavaScript interface 
+> + *java* folder contains native plugin java (native) interface
+> + *js* folder contains native plugin JavaScript interface 
 
 You can read more about this sample and see a video of it in action at:
 http://www.tricedesigns.com/?p=3298
