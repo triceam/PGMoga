@@ -1,4 +1,4 @@
-# PhoneGap native plugin for Android, for Moga game controllers
+#PhoneGap native plugin for Android, for Moga game controllers
 
 The PGMoga plugin is a PhoneGap native plugin that is used to handle input from a Moga came controller inside of a PhoneGap application targetting the Android OS/platform.
 
